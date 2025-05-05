@@ -140,6 +140,7 @@ address a:focus {
   text-align: center;
   padding: 188px 0;
   min-height: 600px;
+  background-image: url(../images/people-office.jpg);
 }
 
 h1 {
